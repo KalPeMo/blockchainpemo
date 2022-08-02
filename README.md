@@ -2,13 +2,13 @@
 
 ## Clases de Blockchain by Edison - Estudiante Carlos A Peña Montenegro
 
-a_miBitcoin
-b_Ethereum
-	Sesion2masContratos
-	Sesion3Loteria
-	Sesion4Brownie
-	Tarea1Sesion1primerContrato
-	Tarea2Chat
-	Tarea3Brownie
-	Tarea4InteraccionContratos
+a_miBitcoin <br> 
+b_Ethereum <br> 
+	*	Sesion2masContratos <br> 
+	*	Sesion3Loteria <br> 
+	*	Sesion4Brownie <br> 
+	*	Tarea1Sesion1primerContrato <br> 
+	*	Tarea2Chat <br> 
+	*	Tarea3Brownie <br> 
+	*	Tarea4InteraccionContratos <br> 
 
