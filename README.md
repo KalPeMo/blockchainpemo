@@ -1,6 +1,7 @@
 # Contenido de este repositorio
 
-## Clases de Blockchain by Edison - Estudiante Carlos A Peña Montenegro
+## Clases de Blockchain by Edison Alejandro Montoya Diaz
+### Estudiante Carlos A Peña Montenegro
 
 a_miBitcoin <br> 
 b_Ethereum <br> 
