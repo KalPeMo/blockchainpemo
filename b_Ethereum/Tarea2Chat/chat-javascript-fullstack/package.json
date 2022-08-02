@@ -1,0 +1,32 @@
+{
+  "name": "chat-javascript-fullstack",
+  "version": "1.0.0",
+  "description": "esta es la creación de una app de chat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"    
+  },
+  "author": "Carlos A Peña Montenegro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalPeMo/chatJavaScript.git"
+  },
+  "keywords": [
+    "chat",
+    "javascipt",
+    "nodejs",
+    "mongodb"
+  ],
+  "bugs": {
+    "url": "https://github.com/KalPeMo/chatJavaScript/issues"
+  },
+  "homepage": "https://github.com/KalPeMo/chatJavaScript#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
