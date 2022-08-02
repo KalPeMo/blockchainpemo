@@ -9,7 +9,7 @@ contract OnlineStore{
     
     function buySomething() external payable{
         require(msg.value==0.001 ether);
-        salfo[msg.sender]=msg.value;
+        saldo[msg.sender]=msg.value;
         mensaje="vendido";
     }
 
